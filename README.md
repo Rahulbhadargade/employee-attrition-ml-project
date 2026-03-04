@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Employee Attrition Prediction using Machine Learning
 
 ## Project Overview
